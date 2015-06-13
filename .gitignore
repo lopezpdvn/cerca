@@ -1,0 +1,9 @@
+*~
+*.pyc
+src/log
+*.hex
+*.lst
+*.o
+*.out
+*.map
+doc/build

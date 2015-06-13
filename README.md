@@ -2,8 +2,8 @@
 
 *Distance measurement system*
 
-[Project's website](http://pedroivanlopez.com/cerca "Project cerca website")
-[Video demonstration](https://www.youtube.com/watch?v=OE_qz_wE0Hs "cerca video demonstration")
+- [Project's website](http://pedroivanlopez.com/cerca "Project cerca website")
+- [Video demonstration](https://www.youtube.com/watch?v=OE_qz_wE0Hs "cerca video demonstration")
 
 Project **cerca** is a PC-based distance measurement system, developed for the
 school course *482 - TÓPICOS SELECTOS DMI I* (spanish for selected topics for
