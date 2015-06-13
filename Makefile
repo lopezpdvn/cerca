@@ -5,4 +5,4 @@ help:
 	@echo "  push	       Push master branch to origin"
 
 push:
-	git push github master
+	git push origin master
